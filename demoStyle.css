@@ -1,0 +1,16 @@
+#decriptionDiv{
+   margin-top : 20px;
+   margin-bottom : 20px;
+}
+
+#gameTable{
+    visibility : hidden;
+    border-spacing : 0px;
+}
+
+#gameTable td{
+    border: solid black 2px;
+    width : 50px;
+    height : 50px;
+    text-align : center; 
+}

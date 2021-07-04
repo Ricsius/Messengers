@@ -1,0 +1,9 @@
+table{
+    border-spacing : 0px;
+}
+
+
+th, td{
+    border: solid black 1px;
+    text-align : center; 
+}
